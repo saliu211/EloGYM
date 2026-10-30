@@ -94,7 +94,7 @@ public class PanelModificarUsuario extends JFrame {
             }
         }
 
-        // 🔹 Tarjeta Central Gris Suave
+        // Tarjeta Central Gris Suave
         JPanel cardPanel = new JPanel();
         cardPanel.setBackground(new Color(234, 234, 234));
         cardPanel.setBorder(new LineBorder(new Color(210, 210, 210), 1, true));
