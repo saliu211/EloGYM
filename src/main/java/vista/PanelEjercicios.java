@@ -165,7 +165,7 @@ public class PanelEjercicios extends JFrame {
 		btnSiguiente.setEnabled(false);
 		btnSiguiente.addActionListener(e -> pasarAlSiguiente());
 		cabecera.add(btnSiguiente);
-
+		//prueba git
 		// (5) Salir
 		btnSalir = new JButton("Salir");
 		btnSalir.setFont(new Font("Segoe UI", Font.BOLD, 16));
